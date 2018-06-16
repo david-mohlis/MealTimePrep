@@ -10,4 +10,4 @@ This project was for my capstone course for my B.S. in Computer Science degree. 
 * David Mohlis - [david-mohlis](https://github.com/david-mohlis)
 
 ## License
-This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
+This project is licensed under the MIT License. See [LICENSE.md](https://github.com/david-mohlis/MealTimePrep/blob/master/LICENSE) for details.
